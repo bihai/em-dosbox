@@ -1,1 +1,0 @@
-python packager.py fbc fbcdos fbcstart.bat
